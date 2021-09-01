@@ -1,0 +1,2 @@
+In den Ordern "Fotos" kann für jedes Gebäude welches Berechnet und als Bericht ausgegeben werden soll ein Foto im .jpg Format abgelegt werden. Der Name des Fotos muss die gewählte Gebäude-ID aus der Verbrauchs- bzw. der Bedarfserfassung sein. ACHTUNG: Gebäude-ID Ohne Leer- und Sonderzeichen!
+Das First_round_dummy.jpg und house.jpg müssen für alle Gebäude ohne Gebäudefoto hier verbleiben.
