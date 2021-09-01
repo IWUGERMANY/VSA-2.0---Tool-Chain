@@ -1,0 +1,28 @@
+Verbrauchsstrukturanalyse VSA 2.0
+
+Authors: Julian Bischof, Volker Ritter, Micheal Hörner
+
+Copyright (c) 2021 Institut Wohnen und Umwelt
+
+Das Institut Wohnen und Umwelt GmbH oder andere Projektteilnehmer des
+Forschungsprojekts "Forschungsdatenbank Nichtwohngebäude", kurz
+ENOB:dataNWG, haften nicht für eventuelle Schäden infolge der Benutzung der
+Ergebnisse der VSA 2.0 Werkzeuge. Insbesondere ist jede Haftung für Schäden
+(z.B. durch entgangene Einsparung etc.) ausgeschlossen, die durch die
+Verwendung von Berechnungsergebnissen oder von Daten oder Informationen
+aus dem Gebäudeanalysebericht verursacht werden. Das genutzte
+Rechenwerkzeug wurde sorgfältig programmiert und getestet, die
+Teilenergiekennwerte unter plausiblen Annahmen berechnet. Es wird keine
+Gewährleistung oder Haftung dafür übernommen, dass das genutzte
+Rechenwerkzeug fehlerfrei genutzt wurde bzw. dass die hinterlegten Formeln
+oder Berechnungen fehlerfrei sind.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Any use of this software in research requires a reference back to the Institut Wohnen und Umwelt
