@@ -1,5 +1,5 @@
 # VSA-2.0---Tool-Chain
- ENOB:DataNWG on-site inspection surveying masks, data management, TEK-tool demand calculation and reporting tool chain
+ ENOB:DataNWG on-site inspection surveying masks, data management, TEK-tool demand calculation and reporting tool chain.
 
  Das Ziel für die Entwicklung von VSA 2.0 war die schnelle energetische Erfassung von Gebäudebeständen, also von vielen Gebäuden in kurzer Zeit. Der Schwerpunkt liegt auf der Erfassung von Nichtwohngebäuden und den komplexeren Nutzungen, die dort vorherrschen. Dabei musste ein Mittelweg zwischen Detaillierungsgrad und Zeitaufwand der Erfassung vor Ort gefunden werden. Die Energiebedarfe werden mit dem TEK-Tool 9.24 des IWU berechnet.
 
