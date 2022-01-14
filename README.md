@@ -11,3 +11,7 @@ Die Toolbox VSA 2.0 beinhaltet
 Die Ergebnisse in der erzeugten Datenbank im CSV-Format können prinzipiell auch in andere Berechnungstools eingelesen und dort verarbeitet werden, wenn deren Datenimportfunktion entsprechend angepasst werden kann.
 
 Further information are summarized in the wiki: https://github.com/IWUGERMANY/VSA-2.0---Tool-Chain/wiki
+
+ <a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kye4aw7j6g2rrmu8iijk" alt="trackgit-views" />
+</a>
